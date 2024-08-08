@@ -1,0 +1,34 @@
+/* src/index.css */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form > div {
+  margin: 10px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input {
+  padding: 5px;
+  margin-left: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+div {
+  margin-top: 20px;
+}
