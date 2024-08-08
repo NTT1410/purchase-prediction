@@ -56,7 +56,9 @@ const App = () => {
           <div class="row">
             <div class="col-md-7 col-md-offset-4">
               <div class="form-container form-signup">
-                <h1 className="text-center text-info mt-2">SIGNUP</h1>
+                <h1 className="text-center text-info mt-2">
+                  Customer Purchase Prediction
+                </h1>
 
                 <Form onSubmit={register}>
                   <Row>
